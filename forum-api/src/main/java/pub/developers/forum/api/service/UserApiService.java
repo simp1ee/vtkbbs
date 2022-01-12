@@ -1,13 +1,13 @@
 package pub.developers.forum.api.service;
 
-import pub.developers.forum.api.model.PageRequestModel;
-import pub.developers.forum.api.model.PageResponseModel;
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.request.AdminBooleanRequest;
-import pub.developers.forum.api.request.user.*;
-import pub.developers.forum.api.response.user.UserInfoResponse;
-import pub.developers.forum.api.response.user.UserOptLogPageResponse;
-import pub.developers.forum.api.response.user.UserPageResponse;
+import pub.developers.forum.common.model.PageRequestModel;
+import pub.developers.forum.common.model.PageResponseModel;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.request.AdminBooleanRequest;
+import pub.developers.forum.common.request.user.*;
+import pub.developers.forum.common.response.user.UserInfoResponse;
+import pub.developers.forum.common.response.user.UserOptLogPageResponse;
+import pub.developers.forum.common.response.user.UserPageResponse;
 import org.springframework.web.multipart.MultipartFile;
 /**
  * @author Qiangqiang.Bian

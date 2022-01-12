@@ -1,13 +1,13 @@
 package pub.developers.forum.api.service;
 
-import pub.developers.forum.api.model.PageRequestModel;
-import pub.developers.forum.api.model.PageResponseModel;
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.request.AdminBooleanRequest;
-import pub.developers.forum.api.request.config.ConfigAddRequest;
-import pub.developers.forum.api.request.config.ConfigPageRequest;
-import pub.developers.forum.api.request.config.ConfigUpdateRequest;
-import pub.developers.forum.api.response.config.ConfigResponse;
+import pub.developers.forum.common.model.PageRequestModel;
+import pub.developers.forum.common.model.PageResponseModel;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.request.AdminBooleanRequest;
+import pub.developers.forum.common.request.config.ConfigAddRequest;
+import pub.developers.forum.common.request.config.ConfigPageRequest;
+import pub.developers.forum.common.request.config.ConfigUpdateRequest;
+import pub.developers.forum.common.response.config.ConfigResponse;
 
 import java.util.List;
 import java.util.Set;

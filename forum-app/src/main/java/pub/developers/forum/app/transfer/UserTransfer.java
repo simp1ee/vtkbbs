@@ -2,12 +2,12 @@ package pub.developers.forum.app.transfer;
 
 import com.alibaba.fastjson.JSONObject;
 import org.springframework.util.ObjectUtils;
-import pub.developers.forum.api.request.user.UserAdminPageRequest;
-import pub.developers.forum.api.request.user.UserRegisterRequest;
-import pub.developers.forum.api.request.user.UserUpdateInfoRequest;
-import pub.developers.forum.api.response.user.UserInfoResponse;
-import pub.developers.forum.api.response.user.UserOptLogPageResponse;
-import pub.developers.forum.api.response.user.UserPageResponse;
+import pub.developers.forum.common.request.user.UserAdminPageRequest;
+import pub.developers.forum.common.request.user.UserRegisterRequest;
+import pub.developers.forum.common.request.user.UserUpdateInfoRequest;
+import pub.developers.forum.common.response.user.UserInfoResponse;
+import pub.developers.forum.common.response.user.UserOptLogPageResponse;
+import pub.developers.forum.common.response.user.UserPageResponse;
 import pub.developers.forum.common.enums.UserRoleEn;
 import pub.developers.forum.common.enums.UserSexEn;
 import pub.developers.forum.common.enums.UserSourceEn;

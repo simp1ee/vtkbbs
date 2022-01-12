@@ -1,7 +1,7 @@
 package pub.developers.forum.facade.validator;
 
 import org.springframework.util.ObjectUtils;
-import pub.developers.forum.api.request.user.*;
+import pub.developers.forum.common.request.user.*;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**

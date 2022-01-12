@@ -1,8 +1,8 @@
 package pub.developers.forum.app.transfer;
 
-import pub.developers.forum.api.request.tag.TagCreateRequest;
-import pub.developers.forum.api.response.tag.TagPageResponse;
-import pub.developers.forum.api.response.tag.TagQueryResponse;
+import pub.developers.forum.common.request.tag.TagCreateRequest;
+import pub.developers.forum.common.response.tag.TagPageResponse;
+import pub.developers.forum.common.response.tag.TagQueryResponse;
 import pub.developers.forum.app.support.LoginUserContext;
 import pub.developers.forum.common.enums.AuditStateEn;
 import pub.developers.forum.common.support.DateUtil;

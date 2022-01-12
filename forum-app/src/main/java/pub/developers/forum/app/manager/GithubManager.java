@@ -3,7 +3,7 @@ package pub.developers.forum.app.manager;
 import com.alibaba.fastjson.JSONObject;
 import org.springframework.stereotype.Component;
 import org.springframework.util.ObjectUtils;
-import pub.developers.forum.api.request.github.GithubOauthLoginRequest;
+import pub.developers.forum.common.request.github.GithubOauthLoginRequest;
 import pub.developers.forum.app.transfer.UserTransfer;
 import pub.developers.forum.common.enums.ErrorCodeEn;
 import pub.developers.forum.common.enums.UserSourceEn;

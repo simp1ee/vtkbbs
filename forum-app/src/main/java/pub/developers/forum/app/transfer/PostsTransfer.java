@@ -1,8 +1,8 @@
 package pub.developers.forum.app.transfer;
 
-import pub.developers.forum.api.vo.PostsVO;
-import pub.developers.forum.api.vo.SolutionVO;
-import pub.developers.forum.api.vo.TagVO;
+import pub.developers.forum.common.vo.PostsVO;
+import pub.developers.forum.common.vo.SolutionVO;
+import pub.developers.forum.common.vo.TagVO;
 import pub.developers.forum.common.enums.PostsCategoryEn;
 import pub.developers.forum.common.support.SafesUtil;
 import pub.developers.forum.domain.entity.Comment;

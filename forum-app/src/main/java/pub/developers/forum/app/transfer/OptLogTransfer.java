@@ -1,7 +1,7 @@
 package pub.developers.forum.app.transfer;
 
 import org.springframework.util.ObjectUtils;
-import pub.developers.forum.api.request.user.UserOptLogPageRequest;
+import pub.developers.forum.common.request.user.UserOptLogPageRequest;
 import pub.developers.forum.common.enums.OptLogTypeEn;
 import pub.developers.forum.domain.entity.OptLog;
 

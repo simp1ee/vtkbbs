@@ -1,6 +1,6 @@
 package pub.developers.forum.portal.support;
 
-import pub.developers.forum.api.response.user.UserInfoResponse;
+import pub.developers.forum.common.response.user.UserInfoResponse;
 
 /**
  * @author Qiangqiang.Bian

@@ -1,6 +1,6 @@
 package pub.developers.forum.facade.validator;
 
-import pub.developers.forum.api.request.comment.CommentCreateRequest;
+import pub.developers.forum.common.request.comment.CommentCreateRequest;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**

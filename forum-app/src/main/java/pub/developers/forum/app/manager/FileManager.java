@@ -1,7 +1,7 @@
 package pub.developers.forum.app.manager;
 
 import org.springframework.stereotype.Component;
-import pub.developers.forum.api.request.file.FileUploadImgRequest;
+import pub.developers.forum.common.request.file.FileUploadImgRequest;
 import pub.developers.forum.app.support.IsLogin;
 import pub.developers.forum.domain.service.FileService;
 

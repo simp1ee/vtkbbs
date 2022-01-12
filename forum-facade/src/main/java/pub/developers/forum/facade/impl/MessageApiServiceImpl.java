@@ -2,11 +2,11 @@ package pub.developers.forum.facade.impl;
 
 import com.alibaba.fastjson.JSON;
 import org.springframework.stereotype.Service;
-import pub.developers.forum.api.model.PageRequestModel;
-import pub.developers.forum.api.model.PageResponseModel;
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.request.message.MessagePageRequest;
-import pub.developers.forum.api.response.message.MessagePageResponse;
+import pub.developers.forum.common.model.PageRequestModel;
+import pub.developers.forum.common.model.PageResponseModel;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.request.message.MessagePageRequest;
+import pub.developers.forum.common.response.message.MessagePageResponse;
 import pub.developers.forum.api.service.MessageApiService;
 import pub.developers.forum.app.manager.MessageManager;
 import pub.developers.forum.facade.support.ResultModelUtil;

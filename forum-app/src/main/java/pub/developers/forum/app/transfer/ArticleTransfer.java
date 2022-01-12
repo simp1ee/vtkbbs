@@ -1,11 +1,11 @@
 package pub.developers.forum.app.transfer;
 
-import pub.developers.forum.api.request.article.ArticleAddTypeRequest;
-import pub.developers.forum.api.request.article.ArticleSaveArticleRequest;
-import pub.developers.forum.api.response.article.ArticleInfoResponse;
-import pub.developers.forum.api.response.article.ArticleQueryTypesResponse;
-import pub.developers.forum.api.response.article.ArticleUserPageResponse;
-import pub.developers.forum.api.vo.TagVO;
+import pub.developers.forum.common.request.article.ArticleAddTypeRequest;
+import pub.developers.forum.common.request.article.ArticleSaveArticleRequest;
+import pub.developers.forum.common.response.article.ArticleInfoResponse;
+import pub.developers.forum.common.response.article.ArticleQueryTypesResponse;
+import pub.developers.forum.common.response.article.ArticleUserPageResponse;
+import pub.developers.forum.common.vo.TagVO;
 import pub.developers.forum.app.support.LoginUserContext;
 import pub.developers.forum.common.enums.ArticleTypeScopeEn;
 import pub.developers.forum.common.enums.AuditStateEn;

@@ -2,9 +2,9 @@ package pub.developers.forum.app.manager;
 
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.ObjectUtils;
-import pub.developers.forum.api.model.PageResponseModel;
-import pub.developers.forum.api.request.AdminBooleanRequest;
-import pub.developers.forum.api.vo.PostsVO;
+import pub.developers.forum.common.model.PageResponseModel;
+import pub.developers.forum.common.request.AdminBooleanRequest;
+import pub.developers.forum.common.vo.PostsVO;
 import pub.developers.forum.app.support.IsLogin;
 import pub.developers.forum.app.support.LoginUserContext;
 import pub.developers.forum.app.transfer.PostsTransfer;

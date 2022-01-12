@@ -1,6 +1,6 @@
 package pub.developers.forum.facade.validator;
 
-import pub.developers.forum.api.request.tag.TagCreateRequest;
+import pub.developers.forum.common.request.tag.TagCreateRequest;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**

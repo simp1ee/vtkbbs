@@ -2,7 +2,7 @@ package pub.developers.forum.app.manager;
 
 import com.alibaba.fastjson.JSON;
 import org.springframework.util.ObjectUtils;
-import pub.developers.forum.api.request.user.UserBaseLoginRequest;
+import pub.developers.forum.common.request.user.UserBaseLoginRequest;
 import pub.developers.forum.common.enums.CacheBizTypeEn;
 import pub.developers.forum.common.support.EventBus;
 import pub.developers.forum.common.support.StringUtil;

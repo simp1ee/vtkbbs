@@ -1,8 +1,8 @@
 package pub.developers.forum.facade.impl;
 
 import org.springframework.stereotype.Service;
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.request.file.FileUploadImgRequest;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.request.file.FileUploadImgRequest;
 import pub.developers.forum.api.service.FileApiService;
 import pub.developers.forum.app.manager.FileManager;
 import pub.developers.forum.facade.support.ResultModelUtil;

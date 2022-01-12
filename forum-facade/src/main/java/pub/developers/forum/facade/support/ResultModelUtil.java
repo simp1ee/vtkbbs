@@ -1,6 +1,6 @@
 package pub.developers.forum.facade.support;
 
-import pub.developers.forum.api.model.ResultModel;
+import pub.developers.forum.common.model.ResultModel;
 import pub.developers.forum.common.enums.ErrorCodeEn;
 
 /**

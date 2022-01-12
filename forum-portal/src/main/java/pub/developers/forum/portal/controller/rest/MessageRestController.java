@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import pub.developers.forum.api.model.ResultModel;
+import pub.developers.forum.common.model.ResultModel;
 import pub.developers.forum.api.service.MessageApiService;
 import pub.developers.forum.common.constant.Constant;
 import pub.developers.forum.portal.support.WebUtil;

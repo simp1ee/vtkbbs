@@ -2,10 +2,10 @@ package pub.developers.forum.app.manager;
 
 import org.springframework.stereotype.Component;
 import org.springframework.util.ObjectUtils;
-import pub.developers.forum.api.model.PageRequestModel;
-import pub.developers.forum.api.model.PageResponseModel;
-import pub.developers.forum.api.request.message.MessagePageRequest;
-import pub.developers.forum.api.response.message.MessagePageResponse;
+import pub.developers.forum.common.model.PageRequestModel;
+import pub.developers.forum.common.model.PageResponseModel;
+import pub.developers.forum.common.request.message.MessagePageRequest;
+import pub.developers.forum.common.response.message.MessagePageResponse;
 import pub.developers.forum.app.support.IsLogin;
 import pub.developers.forum.app.support.LoginUserContext;
 import pub.developers.forum.app.support.PageUtil;

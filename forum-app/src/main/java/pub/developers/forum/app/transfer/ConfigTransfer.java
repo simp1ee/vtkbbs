@@ -1,9 +1,9 @@
 package pub.developers.forum.app.transfer;
 
-import pub.developers.forum.api.request.config.ConfigAddRequest;
-import pub.developers.forum.api.request.config.ConfigPageRequest;
-import pub.developers.forum.api.request.config.ConfigUpdateRequest;
-import pub.developers.forum.api.response.config.ConfigResponse;
+import pub.developers.forum.common.request.config.ConfigAddRequest;
+import pub.developers.forum.common.request.config.ConfigPageRequest;
+import pub.developers.forum.common.request.config.ConfigUpdateRequest;
+import pub.developers.forum.common.response.config.ConfigResponse;
 import pub.developers.forum.common.enums.AuditStateEn;
 import pub.developers.forum.common.enums.ConfigTypeEn;
 import pub.developers.forum.common.support.SafesUtil;

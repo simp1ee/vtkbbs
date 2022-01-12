@@ -1,9 +1,9 @@
 package pub.developers.forum.app.manager;
 
 import org.springframework.stereotype.Component;
-import pub.developers.forum.api.model.PageRequestModel;
-import pub.developers.forum.api.model.PageResponseModel;
-import pub.developers.forum.api.vo.PostsVO;
+import pub.developers.forum.common.model.PageRequestModel;
+import pub.developers.forum.common.model.PageResponseModel;
+import pub.developers.forum.common.vo.PostsVO;
 import pub.developers.forum.app.support.PageUtil;
 import pub.developers.forum.common.model.PageResult;
 import pub.developers.forum.domain.entity.Posts;

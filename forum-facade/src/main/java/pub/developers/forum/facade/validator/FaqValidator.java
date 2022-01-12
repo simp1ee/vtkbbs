@@ -1,7 +1,7 @@
 package pub.developers.forum.facade.validator;
 
-import pub.developers.forum.api.request.faq.FaqSaveFaqRequest;
-import pub.developers.forum.api.request.faq.FaqSolutionRequest;
+import pub.developers.forum.common.request.faq.FaqSaveFaqRequest;
+import pub.developers.forum.common.request.faq.FaqSolutionRequest;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**

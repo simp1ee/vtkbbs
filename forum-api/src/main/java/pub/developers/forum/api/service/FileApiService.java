@@ -1,7 +1,7 @@
 package pub.developers.forum.api.service;
 
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.request.file.FileUploadImgRequest;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.request.file.FileUploadImgRequest;
 
 /**
  * @author Qiangqiang.Bian

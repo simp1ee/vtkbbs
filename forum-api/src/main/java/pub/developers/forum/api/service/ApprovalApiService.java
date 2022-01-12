@@ -1,6 +1,6 @@
 package pub.developers.forum.api.service;
 
-import pub.developers.forum.api.model.ResultModel;
+import pub.developers.forum.common.model.ResultModel;
 
 /**
  * @author Qiangqiang.Bian

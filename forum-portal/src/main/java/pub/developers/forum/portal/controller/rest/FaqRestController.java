@@ -1,10 +1,10 @@
 package pub.developers.forum.portal.controller.rest;
 
 import org.springframework.web.bind.annotation.*;
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.request.faq.FaqSaveFaqRequest;
-import pub.developers.forum.api.request.faq.FaqSolutionRequest;
-import pub.developers.forum.api.response.faq.FaqInfoResponse;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.request.faq.FaqSaveFaqRequest;
+import pub.developers.forum.common.request.faq.FaqSolutionRequest;
+import pub.developers.forum.common.response.faq.FaqInfoResponse;
 import pub.developers.forum.api.service.FaqApiService;
 import pub.developers.forum.common.constant.Constant;
 import pub.developers.forum.portal.support.WebUtil;

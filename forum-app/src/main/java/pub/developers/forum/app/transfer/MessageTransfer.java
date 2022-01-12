@@ -1,6 +1,6 @@
 package pub.developers.forum.app.transfer;
 
-import pub.developers.forum.api.response.message.MessagePageResponse;
+import pub.developers.forum.common.response.message.MessagePageResponse;
 import pub.developers.forum.common.enums.MessageTypeEn;
 import pub.developers.forum.common.support.SafesUtil;
 import pub.developers.forum.domain.entity.BasePosts;

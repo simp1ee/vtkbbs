@@ -1,6 +1,6 @@
 package pub.developers.forum.facade.validator;
 
-import pub.developers.forum.api.request.message.MessagePageRequest;
+import pub.developers.forum.common.request.message.MessagePageRequest;
 import pub.developers.forum.common.enums.MessageTypeEn;
 import pub.developers.forum.common.support.CheckUtil;
 

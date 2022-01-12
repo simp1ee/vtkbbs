@@ -1,6 +1,6 @@
 package pub.developers.forum.facade.validator;
 
-import pub.developers.forum.api.request.file.FileUploadImgRequest;
+import pub.developers.forum.common.request.file.FileUploadImgRequest;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**

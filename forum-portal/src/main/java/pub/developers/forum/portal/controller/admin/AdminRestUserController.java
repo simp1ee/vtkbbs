@@ -1,14 +1,14 @@
 package pub.developers.forum.portal.controller.admin;
 
 import org.springframework.web.bind.annotation.*;
-import pub.developers.forum.api.model.PageRequestModel;
-import pub.developers.forum.api.model.PageResponseModel;
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.request.AdminBooleanRequest;
-import pub.developers.forum.api.request.user.UserAdminPageRequest;
-import pub.developers.forum.api.request.user.UserOptLogPageRequest;
-import pub.developers.forum.api.response.user.UserOptLogPageResponse;
-import pub.developers.forum.api.response.user.UserPageResponse;
+import pub.developers.forum.common.model.PageRequestModel;
+import pub.developers.forum.common.model.PageResponseModel;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.request.AdminBooleanRequest;
+import pub.developers.forum.common.request.user.UserAdminPageRequest;
+import pub.developers.forum.common.request.user.UserOptLogPageRequest;
+import pub.developers.forum.common.response.user.UserOptLogPageResponse;
+import pub.developers.forum.common.response.user.UserPageResponse;
 import pub.developers.forum.api.service.UserApiService;
 import pub.developers.forum.common.constant.Constant;
 import pub.developers.forum.portal.support.WebUtil;

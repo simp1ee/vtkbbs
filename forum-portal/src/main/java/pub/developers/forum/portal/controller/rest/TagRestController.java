@@ -3,8 +3,8 @@ package pub.developers.forum.portal.controller.rest;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.response.tag.TagQueryResponse;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.response.tag.TagQueryResponse;
 import pub.developers.forum.api.service.TagApiService;
 
 import javax.annotation.Resource;

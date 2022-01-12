@@ -1,8 +1,8 @@
 package pub.developers.forum.facade.validator;
 
-import pub.developers.forum.api.request.article.ArticleAddTypeRequest;
-import pub.developers.forum.api.request.AdminBooleanRequest;
-import pub.developers.forum.api.request.article.ArticleSaveArticleRequest;
+import pub.developers.forum.common.request.article.ArticleAddTypeRequest;
+import pub.developers.forum.common.request.AdminBooleanRequest;
+import pub.developers.forum.common.request.article.ArticleSaveArticleRequest;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**

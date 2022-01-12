@@ -1,7 +1,7 @@
 package pub.developers.forum.app.support;
 
-import pub.developers.forum.api.model.PageRequestModel;
-import pub.developers.forum.api.model.PageResponseModel;
+import pub.developers.forum.common.model.PageRequestModel;
+import pub.developers.forum.common.model.PageResponseModel;
 import pub.developers.forum.common.model.PageRequest;
 import pub.developers.forum.common.model.PageResult;
 

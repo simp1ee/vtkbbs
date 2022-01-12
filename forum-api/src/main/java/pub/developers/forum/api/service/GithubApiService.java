@@ -1,7 +1,7 @@
 package pub.developers.forum.api.service;
 
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.request.github.GithubOauthLoginRequest;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.request.github.GithubOauthLoginRequest;
 
 /**
  * @author Qiangqiang.Bian

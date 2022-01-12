@@ -1,8 +1,8 @@
 package pub.developers.forum.app.transfer;
 
 import org.springframework.util.ObjectUtils;
-import pub.developers.forum.api.request.comment.CommentCreateRequest;
-import pub.developers.forum.api.response.comment.CommentPageResponse;
+import pub.developers.forum.common.request.comment.CommentCreateRequest;
+import pub.developers.forum.common.response.comment.CommentPageResponse;
 import pub.developers.forum.common.support.SafesUtil;
 import pub.developers.forum.domain.entity.Comment;
 import pub.developers.forum.domain.entity.User;

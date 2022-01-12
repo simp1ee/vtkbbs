@@ -1,8 +1,8 @@
 package pub.developers.forum.facade.impl;
 
 import org.springframework.stereotype.Service;
-import pub.developers.forum.api.model.ResultModel;
-import pub.developers.forum.api.request.github.GithubOauthLoginRequest;
+import pub.developers.forum.common.model.ResultModel;
+import pub.developers.forum.common.request.github.GithubOauthLoginRequest;
 import pub.developers.forum.api.service.GithubApiService;
 import pub.developers.forum.app.manager.GithubManager;
 import pub.developers.forum.common.support.CheckUtil;

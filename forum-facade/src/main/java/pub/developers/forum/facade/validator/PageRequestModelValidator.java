@@ -1,6 +1,6 @@
 package pub.developers.forum.facade.validator;
 
-import pub.developers.forum.api.model.PageRequestModel;
+import pub.developers.forum.common.model.PageRequestModel;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**
