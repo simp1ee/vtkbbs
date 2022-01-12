@@ -2,17 +2,20 @@
 <html lang="zh-CN" xmlns:th="http://www.thymeleaf.org">
 
 <footer th:fragment="footer">
-    <div class="foot custom-bg-color">
-        <ul class="foot-link">
-            <!--<li><a class="text-reset" href="javascript:;">在线人数：<span th:text="${onlineUsers}"></span></a></li>-->
-            <!--<li><a class="text-reset" href="https://www.developers.pub/blog" target="_blank">博客文章</a></li>-->
+    <div class="foot custom-bg-color" style="text-align: center">
+
+        <a href="https://beian.miit.gov.cn/"><span th:text="${globalConfig.websiteRecord}">京ICP备2021040836-1</span></a>
+        <a href="http://www.beian.gov.cn/">京公网安备11011402012193号</a>
+       <!-- <ul class="foot-link">
+            &lt;!&ndash;<li><a class="text-reset" href="javascript:;">在线人数：<span th:text="${onlineUsers}"></span></a></li>&ndash;&gt;
+            &lt;!&ndash;<li><a class="text-reset" href="https://www.developers.pub/blog" target="_blank">博客文章</a></li>&ndash;&gt;
             <li><span th:text="${globalConfig.websiteRecord}">京ICP备2021040836-1</span>
-                <!--<a class="text-reset"
+                &lt;!&ndash;<a class="text-reset"
                    href="https://www.developers.pub"
                    th:text="'© 2016-' + ${#dates.format(#dates.createNow(), 'yyyy')} + ' 杭州余杭顽强网络技术工作室'"
-                   target="_blank"> © 2016-2021 杭州余杭顽强网络技术工作室</a>-->
+                   target="_blank"> © 2016-2021 杭州余杭顽强网络技术工作室</a>&ndash;&gt;
             </li>
-        </ul>
+        </ul>-->
     </div>
 
     <!-- cdn server -->
